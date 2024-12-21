@@ -63,16 +63,16 @@ endmodule
 ````
 
 
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL LOGIC FOR  T-FLIPFLOP**
 
 ![Experiment 9](https://github.com/user-attachments/assets/219bdd8f-e246-4e9e-a1a9-f508023f453f)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAM FOR T-FLIP FLOP**
 
 ![WhatsApp Image 2024-12-20 at 8 40 11 AM](https://github.com/user-attachments/assets/3e4389f2-197f-4f3b-8ed8-514e85ee2d62)
 
 
-**RESULTS**
+**RESULT**
 
-T flipflop using verilog and validating their functionality using their functional tables is verifeid.
+T flipflop using verilog and validating their functionality using their functional tables is verified.
